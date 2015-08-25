@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+xcodeproj '/Users/Javier/Documents/Proyectos XCode/Haze/Haze.xcodeproj'
+
+use_frameworks!
+pod 'SwiftyJSON', '~> 2.2.1'
+pod 'GoogleMaps'
+pod 'Alamofire', '~> 1.3'

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E1AF68C-182D-4D31-863A-70A438C8EF76</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D269F324A54B931F52F5717B8D0B4B431A473CB9</key>
+		<string>https://github.com/TacuaraTechnologies/Haze.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Haze.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D269F324A54B931F52F5717B8D0B4B431A473CB9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TacuaraTechnologies/Haze.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D269F324A54B931F52F5717B8D0B4B431A473CB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D269F324A54B931F52F5717B8D0B4B431A473CB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Haze</string>
+		</dict>
+	</array>
+</dict>
+</plist>
